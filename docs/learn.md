@@ -11,3 +11,4 @@
 
 1. [裸机](https://en.wikipedia.org/wiki/Bare_machine)
 2. [BIOS 和 UEFI]()
+3. [CPU架构]()
